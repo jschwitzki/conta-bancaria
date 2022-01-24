@@ -5,4 +5,4 @@
  - **Abstração**: Modelar os atributos relevantes e as interações de entidades como classes;<br />
  - **Encapsulamento**: Ocultar o estado interno e as funcionalidades de um objeto, permitindo acesso apenas por meio de conjuntos públicos de funções;<br />
  - **Herança**: Capacidade de criar novas abstrações com base em abstrações já existentes;<br />
- - **Polimorfismo**: Capacidade de implementar propriedades ou métodos herdados de diferentes maneiras em várias abstrações.C 
+ - **Polimorfismo**: Capacidade de implementar propriedades ou métodos herdados de diferentes maneiras em várias abstrações.
