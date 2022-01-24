@@ -1,0 +1,15 @@
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\poo.exe
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\poo.deps.json
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\poo.runtimeconfig.json
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\poo.dll
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\ref\poo.dll
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\bin\Debug\net6.0\poo.pdb
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.csproj.AssemblyReference.cache
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.AssemblyInfoInputs.cache
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.AssemblyInfo.cs
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.dll
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\ref\poo.dll
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.pdb
+C:\Users\Windows\desktop\faculdade\dio\gft\poo\obj\Debug\net6.0\poo.genruntimeconfig.cache
